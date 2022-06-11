@@ -11,3 +11,6 @@ USE WITH FULL CONSENT
 # Debugging
 Error will pop-up in the logs section. You can either report them to me (mikeleio007#9297) or try fixing them your self
 WARNING! Do not report any config errors or errors with your setting report ONLY program errors.
+# FAQ
+- Is this a virus?
+- No but windows defender might have a false positive
