@@ -16,3 +16,4 @@ WARNING! Do not report any config errors or errors with your setting report ONLY
 # FAQ
 - Is this a virus?
 - No but windows defender might have a false positive
+![OVERDDOS](https://github.com/Darklisted/overddos/blob/main/overdos_icon.png)
