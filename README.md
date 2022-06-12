@@ -1,4 +1,4 @@
-![OVERDDOS]([http://url/to/img.png](https://github.com/Darklisted/overddos/blob/main/overddos.png))
+![OVERDDOS](https://github.com/Darklisted/overddos/blob/main/overddos.png)
 
 # OVERDDOS
 Overddos if a free server stressing tool made to perform DOS attacks
