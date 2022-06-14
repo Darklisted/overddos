@@ -1,8 +1,7 @@
 ![OVERDDOS](https://github.com/Darklisted/overddos/blob/main/overddos.png)
 
-<p align="center">
 [![OVERDDOS VID](https://img.youtube.com/vi/Dh5434Vkle4/0.jpg)](https://www.youtube.com/watch?v=Dh5434Vkle4)
-</p>
+
 
 # OVERDDOS
 Overddos if a free server stressing tool made to perform DOS attacks
