@@ -22,10 +22,10 @@ Error will pop-up in the logs section. You can either report them to me (mikelei
 WARNING! Do not report any config errors or errors with your setting report ONLY program errors.
 # FAQ
 - Is this a virus?
--- No but windows defender might have a false positive
+→ No but windows defender might have a false positive
 - Do do I use it?
--- Uploading tutorial soon!
+→ Uploading tutorial soon!
 - Why is the zip password protected?
--- Some browsers may detect it as a virus and wont let you download it
+→ Some browsers may detect it as a virus and wont let you download it
 
 ![OVERDDOS](https://github.com/Darklisted/overddos/blob/main/overdos_icon.png)
