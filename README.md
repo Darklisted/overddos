@@ -2,12 +2,9 @@
 # OVERDDOS
 Overddos if a free server stressing tool made to perform DOS attacks
 USE WITH FULL CONSENT
-# Relses 
-
-<h1>OVERDDOS V5 IS OUT</h1>
-
+# Releases 
+<h2>OVERDDOS V5 IS OUT</h2>
 [![OVERDDOS V5 Trailer](https://github.com/Darklisted/overddos/blob/main/overddos_media.PNG)](https://www.youtube.com/watch?v=ImGmviGufDU)
-
 <h3>Download now: https://github.com/Darklisted/overddos/releases/tag/v5.1</h3>
 
 # How to install
