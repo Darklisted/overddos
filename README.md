@@ -8,7 +8,7 @@ USE WITH FULL CONSENT
 
 [![OVERDDOS V5 Trailer](https://github.com/Darklisted/overddos/blob/main/overddos_media.PNG)](https://www.youtube.com/watch?v=ImGmviGufDU)
 
-<h3>Download now:</h3>
+<h3>Download now: https://github.com/Darklisted/overddos/releases/tag/v5.1</h3>
 
 # How to install
 1. Go to releases section to the right and download the latest release
