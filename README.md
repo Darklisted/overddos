@@ -28,4 +28,6 @@ WARNING! Do not report any config errors or errors with your setting report ONLY
 - Why is the zip password protected?
 → Some browsers may detect it as a virus and wont let you download it
 
+<h2>Want some more feedback? Fill this form depending on your needs : https://forms.gle/a8JpLrw4diALZJVn7</h2>
+
 ![OVERDDOS](https://github.com/Darklisted/overddos/blob/main/overdos_icon.png)
